@@ -4,9 +4,9 @@
  *   get:
  *     summary: 예시 api
  *     parameters:
- *         - in: query
- *           name: number
- *           type: int
+ *       - in: query
+ *         name: number
+ *         type: int
  *     description: Welcome to swagger-jsdoc!
  *     responses:
  *       200:
